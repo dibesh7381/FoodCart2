@@ -72,7 +72,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ## Screenshots (Optional but Recommended!)
 
-![Screenshot of Food Item Listing](link-to-your-image-1.png)
+![Screenshot of Food Item Listing](assets/images/png/cart1.png)
 *Image 1: Food Item Listing Page*
 
 ![Screenshot of Shopping Cart](link-to-your-image-2.png)
