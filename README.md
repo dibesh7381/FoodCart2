@@ -22,7 +22,7 @@ This is a basic, yet functional, **Food Cart website** built to demonstrate a si
 * **React:** For building the user interface.
 * **Vite:** For a fast development experience and build process.
 * **CSS Modules (or Tailwind CSS/Styled Components, if applicable):** For styling.
-* **Redux-tookit** For better state management
+* **Redux-tookit:** For better state management
 
 ---
 
@@ -39,13 +39,12 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  **Clone or Download:** First, get the project files onto your computer. You can clone this repository:
     ```bash
-    git clone [https://github.com/dibesh7381/your-food-cart-repo-name.git](https://github.com/dibesh7381/your-food-cart-repo-name.git)
+    git clone [click this link for clone](https://github.com/dibesh7381/FoodCart2)
     ```
-    *(Replace `your-food-cart-repo-name.git` with your actual repository name)*
 
 2.  **Navigate to Project Folder:** Go to the root directory of the project:
     ```bash
-    cd food-cart-website # Or whatever your project folder is named
+    cd cart 
     ```
 
 3.  **Install Dependencies:** Run the following command to install all necessary packages:
@@ -73,8 +72,6 @@ Follow these steps to get the project up and running on your local machine.
 
 ## Screenshots (Optional but Recommended!)
 
-*(You can add screenshots here to give a visual preview of your website. For example:)*
-
 ![Screenshot of Food Item Listing](link-to-your-image-1.png)
 *Image 1: Food Item Listing Page*
 
@@ -83,16 +80,8 @@ Follow these steps to get the project up and running on your local machine.
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-*(If you have a separate LICENSE.md file, link it. Otherwise, you can state the license directly here.)*
-
----
-
 ## Connect with Me
 
 Feel free to reach out if you have any questions or feedback!
 
 * [Visit my GitHub Profile](https://github.com/dibesh7381)
-* *(Optional: Link to your LinkedIn, personal website, etc.)*
