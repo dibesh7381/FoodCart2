@@ -70,7 +70,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ---
 
-## Screenshots (Optional but Recommended!)
+## Screenshots
 
 ![Screenshot of Food Item Listing](screenshots/cartview.png)
 *Image 1: Food Item Listing Page*
